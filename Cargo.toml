@@ -2,6 +2,8 @@
 name = "external_dependencies"
 version = "0.1.0"
 edition = "2021"
+description = "Example auth services"
+license = "MIT"
 
 [dependencies]
 rand = "0.9.0"
